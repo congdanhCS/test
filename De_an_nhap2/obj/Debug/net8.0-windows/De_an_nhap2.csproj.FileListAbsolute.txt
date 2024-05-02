@@ -1,0 +1,51 @@
+D:\Các học phần\Cấu trúc dữ liệu và giải thuật\De_an_nhap2\De_an_nhap2\bin\Debug\net8.0-windows\De_an_nhap2.exe
+D:\Các học phần\Cấu trúc dữ liệu và giải thuật\De_an_nhap2\De_an_nhap2\bin\Debug\net8.0-windows\De_an_nhap2.deps.json
+D:\Các học phần\Cấu trúc dữ liệu và giải thuật\De_an_nhap2\De_an_nhap2\bin\Debug\net8.0-windows\De_an_nhap2.runtimeconfig.json
+D:\Các học phần\Cấu trúc dữ liệu và giải thuật\De_an_nhap2\De_an_nhap2\bin\Debug\net8.0-windows\De_an_nhap2.dll
+D:\Các học phần\Cấu trúc dữ liệu và giải thuật\De_an_nhap2\De_an_nhap2\bin\Debug\net8.0-windows\De_an_nhap2.pdb
+D:\Các học phần\Cấu trúc dữ liệu và giải thuật\De_an_nhap2\De_an_nhap2\obj\Debug\net8.0-windows\De_an_nhap2.formTHN.resources
+D:\Các học phần\Cấu trúc dữ liệu và giải thuật\De_an_nhap2\De_an_nhap2\obj\Debug\net8.0-windows\De_an_nhap2.Properties.Resources.resources
+D:\Các học phần\Cấu trúc dữ liệu và giải thuật\De_an_nhap2\De_an_nhap2\obj\Debug\net8.0-windows\De_an_nhap2.csproj.GenerateResource.cache
+D:\Các học phần\Cấu trúc dữ liệu và giải thuật\De_an_nhap2\De_an_nhap2\obj\Debug\net8.0-windows\De_an_nhap2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Các học phần\Cấu trúc dữ liệu và giải thuật\De_an_nhap2\De_an_nhap2\obj\Debug\net8.0-windows\De_an_nhap2.AssemblyInfoInputs.cache
+D:\Các học phần\Cấu trúc dữ liệu và giải thuật\De_an_nhap2\De_an_nhap2\obj\Debug\net8.0-windows\De_an_nhap2.AssemblyInfo.cs
+D:\Các học phần\Cấu trúc dữ liệu và giải thuật\De_an_nhap2\De_an_nhap2\obj\Debug\net8.0-windows\De_an_nhap2.csproj.CoreCompileInputs.cache
+D:\Các học phần\Cấu trúc dữ liệu và giải thuật\De_an_nhap2\De_an_nhap2\obj\Debug\net8.0-windows\De_an_nhap2.dll
+D:\Các học phần\Cấu trúc dữ liệu và giải thuật\De_an_nhap2\De_an_nhap2\obj\Debug\net8.0-windows\refint\De_an_nhap2.dll
+D:\Các học phần\Cấu trúc dữ liệu và giải thuật\De_an_nhap2\De_an_nhap2\obj\Debug\net8.0-windows\De_an_nhap2.pdb
+D:\Các học phần\Cấu trúc dữ liệu và giải thuật\De_an_nhap2\De_an_nhap2\obj\Debug\net8.0-windows\De_an_nhap2.genruntimeconfig.cache
+D:\Các học phần\Cấu trúc dữ liệu và giải thuật\De_an_nhap2\De_an_nhap2\obj\Debug\net8.0-windows\ref\De_an_nhap2.dll
+D:\Các học phần\Cấu trúc dữ liệu và giải thuật\De_an_nhap2 - Copy\De_an_nhap2\bin\Debug\net8.0-windows\De_an_nhap2.exe
+D:\Các học phần\Cấu trúc dữ liệu và giải thuật\De_an_nhap2 - Copy\De_an_nhap2\bin\Debug\net8.0-windows\De_an_nhap2.deps.json
+D:\Các học phần\Cấu trúc dữ liệu và giải thuật\De_an_nhap2 - Copy\De_an_nhap2\bin\Debug\net8.0-windows\De_an_nhap2.runtimeconfig.json
+D:\Các học phần\Cấu trúc dữ liệu và giải thuật\De_an_nhap2 - Copy\De_an_nhap2\bin\Debug\net8.0-windows\De_an_nhap2.dll
+D:\Các học phần\Cấu trúc dữ liệu và giải thuật\De_an_nhap2 - Copy\De_an_nhap2\bin\Debug\net8.0-windows\De_an_nhap2.pdb
+D:\Các học phần\Cấu trúc dữ liệu và giải thuật\De_an_nhap2 - Copy\De_an_nhap2\obj\Debug\net8.0-windows\De_an_nhap2.formTHN.resources
+D:\Các học phần\Cấu trúc dữ liệu và giải thuật\De_an_nhap2 - Copy\De_an_nhap2\obj\Debug\net8.0-windows\De_an_nhap2.Properties.Resources.resources
+D:\Các học phần\Cấu trúc dữ liệu và giải thuật\De_an_nhap2 - Copy\De_an_nhap2\obj\Debug\net8.0-windows\De_an_nhap2.csproj.GenerateResource.cache
+D:\Các học phần\Cấu trúc dữ liệu và giải thuật\De_an_nhap2 - Copy\De_an_nhap2\obj\Debug\net8.0-windows\De_an_nhap2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Các học phần\Cấu trúc dữ liệu và giải thuật\De_an_nhap2 - Copy\De_an_nhap2\obj\Debug\net8.0-windows\De_an_nhap2.AssemblyInfoInputs.cache
+D:\Các học phần\Cấu trúc dữ liệu và giải thuật\De_an_nhap2 - Copy\De_an_nhap2\obj\Debug\net8.0-windows\De_an_nhap2.AssemblyInfo.cs
+D:\Các học phần\Cấu trúc dữ liệu và giải thuật\De_an_nhap2 - Copy\De_an_nhap2\obj\Debug\net8.0-windows\De_an_nhap2.csproj.CoreCompileInputs.cache
+D:\Các học phần\Cấu trúc dữ liệu và giải thuật\De_an_nhap2 - Copy\De_an_nhap2\obj\Debug\net8.0-windows\De_an_nhap2.dll
+D:\Các học phần\Cấu trúc dữ liệu và giải thuật\De_an_nhap2 - Copy\De_an_nhap2\obj\Debug\net8.0-windows\refint\De_an_nhap2.dll
+D:\Các học phần\Cấu trúc dữ liệu và giải thuật\De_an_nhap2 - Copy\De_an_nhap2\obj\Debug\net8.0-windows\De_an_nhap2.pdb
+D:\Các học phần\Cấu trúc dữ liệu và giải thuật\De_an_nhap2 - Copy\De_an_nhap2\obj\Debug\net8.0-windows\De_an_nhap2.genruntimeconfig.cache
+D:\Các học phần\Cấu trúc dữ liệu và giải thuật\De_an_nhap2 - Copy\De_an_nhap2\obj\Debug\net8.0-windows\ref\De_an_nhap2.dll
+D:\Các học phần\Cấu trúc dữ liệu và giải thuật\De_an_nhap3\De_an_nhap2\bin\Debug\net8.0-windows\De_an_nhap2.exe
+D:\Các học phần\Cấu trúc dữ liệu và giải thuật\De_an_nhap3\De_an_nhap2\bin\Debug\net8.0-windows\De_an_nhap2.deps.json
+D:\Các học phần\Cấu trúc dữ liệu và giải thuật\De_an_nhap3\De_an_nhap2\bin\Debug\net8.0-windows\De_an_nhap2.runtimeconfig.json
+D:\Các học phần\Cấu trúc dữ liệu và giải thuật\De_an_nhap3\De_an_nhap2\bin\Debug\net8.0-windows\De_an_nhap2.dll
+D:\Các học phần\Cấu trúc dữ liệu và giải thuật\De_an_nhap3\De_an_nhap2\bin\Debug\net8.0-windows\De_an_nhap2.pdb
+D:\Các học phần\Cấu trúc dữ liệu và giải thuật\De_an_nhap3\De_an_nhap2\obj\Debug\net8.0-windows\De_an_nhap2.formTHN.resources
+D:\Các học phần\Cấu trúc dữ liệu và giải thuật\De_an_nhap3\De_an_nhap2\obj\Debug\net8.0-windows\De_an_nhap2.Properties.Resources.resources
+D:\Các học phần\Cấu trúc dữ liệu và giải thuật\De_an_nhap3\De_an_nhap2\obj\Debug\net8.0-windows\De_an_nhap2.csproj.GenerateResource.cache
+D:\Các học phần\Cấu trúc dữ liệu và giải thuật\De_an_nhap3\De_an_nhap2\obj\Debug\net8.0-windows\De_an_nhap2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Các học phần\Cấu trúc dữ liệu và giải thuật\De_an_nhap3\De_an_nhap2\obj\Debug\net8.0-windows\De_an_nhap2.AssemblyInfoInputs.cache
+D:\Các học phần\Cấu trúc dữ liệu và giải thuật\De_an_nhap3\De_an_nhap2\obj\Debug\net8.0-windows\De_an_nhap2.AssemblyInfo.cs
+D:\Các học phần\Cấu trúc dữ liệu và giải thuật\De_an_nhap3\De_an_nhap2\obj\Debug\net8.0-windows\De_an_nhap2.csproj.CoreCompileInputs.cache
+D:\Các học phần\Cấu trúc dữ liệu và giải thuật\De_an_nhap3\De_an_nhap2\obj\Debug\net8.0-windows\De_an_nhap2.dll
+D:\Các học phần\Cấu trúc dữ liệu và giải thuật\De_an_nhap3\De_an_nhap2\obj\Debug\net8.0-windows\refint\De_an_nhap2.dll
+D:\Các học phần\Cấu trúc dữ liệu và giải thuật\De_an_nhap3\De_an_nhap2\obj\Debug\net8.0-windows\De_an_nhap2.pdb
+D:\Các học phần\Cấu trúc dữ liệu và giải thuật\De_an_nhap3\De_an_nhap2\obj\Debug\net8.0-windows\De_an_nhap2.genruntimeconfig.cache
+D:\Các học phần\Cấu trúc dữ liệu và giải thuật\De_an_nhap3\De_an_nhap2\obj\Debug\net8.0-windows\ref\De_an_nhap2.dll
